@@ -1,0 +1,471 @@
+[14-Oct-2014 17:53:03 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/RetoCatalogarte/db_connect.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/RetoCatalogarte/db_functions.php on line 6
+[14-Oct-2014 17:53:03 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/RetoCatalogarte/db_connect.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/RetoCatalogarte/db_functions.php on line 6
+[14-Oct-2014 18:40:15 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/RetoCatalogarte/db_functions.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/RetoCatalogarte/main.php on line 2
+[14-Oct-2014 18:40:15 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/RetoCatalogarte/db_functions.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/RetoCatalogarte/main.php on line 2
+[14-Oct-2014 18:41:14 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/RetoCatalogarte/db_connect.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/RetoCatalogarte/db_functions.php on line 6
+[14-Oct-2014 18:41:14 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/RetoCatalogarte/db_connect.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/RetoCatalogarte/db_functions.php on line 6
+[14-Oct-2014 18:41:16 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/RetoCatalogarte/db_connect.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/RetoCatalogarte/db_functions.php on line 6
+[14-Oct-2014 18:41:16 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/RetoCatalogarte/db_connect.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/RetoCatalogarte/db_functions.php on line 6
+[14-Oct-2014 18:47:35 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/db_connect.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/db_functions.php on line 6
+[14-Oct-2014 18:47:35 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/db_connect.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/db_functions.php on line 6
+[14-Oct-2014 18:50:05 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/db_connect.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/db_functions.php on line 6
+[14-Oct-2014 18:50:05 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/db_connect.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/db_functions.php on line 6
+[14-Oct-2014 18:50:05 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/db_connect.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/db_functions.php on line 6
+[14-Oct-2014 18:50:05 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/db_connect.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/db_functions.php on line 6
+[14-Oct-2014 18:50:06 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/db_connect.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/db_functions.php on line 6
+[14-Oct-2014 18:50:06 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/db_connect.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/db_functions.php on line 6
+[14-Oct-2014 18:50:07 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/db_connect.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/db_functions.php on line 6
+[14-Oct-2014 18:50:07 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/db_connect.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/db_functions.php on line 6
+[14-Oct-2014 18:52:24 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home4/silvercv/public_html/db_functions.php on line 14
+[14-Oct-2014 19:35:39 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 5
+[14-Oct-2014 19:37:44 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv'@'gator4091.hostgator.com' (using password: NO) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 19:39:02 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv'@'gator4091.hostgator.com' (using password: NO) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 19:42:50 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_12'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 19:42:52 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_12'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 19:42:52 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_12'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 19:42:54 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_12'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 19:42:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_12'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 19:42:56 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_12'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 19:42:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_12'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 19:44:20 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_12'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 23:11:15 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_12'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 23:16:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_12'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 4
+[14-Oct-2014 23:25:25 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 3
+[14-Oct-2014 23:28:37 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 3
+[14-Oct-2014 23:28:41 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 3
+[14-Oct-2014 23:29:15 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 3
+[14-Oct-2014 23:30:39 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:32:23 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:32:26 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:32:26 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:32:28 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:39:09 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:39:13 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:39:14 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:39:15 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:39:16 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'your_name'@'localhost' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:39:23 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 3
+[14-Oct-2014 23:43:23 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:46:53 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'silvercv_user2'@'ns8181.hostgator.com' (using password: YES) in /home4/silvercv/public_html/index1.php on line 7
+[14-Oct-2014 23:52:18 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/index1.php on line 8
+[14-Oct-2014 23:53:00 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 3
+[14-Oct-2014 23:53:17 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/index1.php on line 8
+[15-Oct-2014 00:02:05 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 3
+[15-Oct-2014 00:02:26 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/index1.php on line 8
+[15-Oct-2014 00:11:24 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/hellow.php on line 3
+[15-Oct-2014 00:17:58 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/index1.php on line 8
+[15-Oct-2014 00:18:01 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/index1.php on line 8
+[15-Oct-2014 00:18:11 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/index1.php on line 8
+[15-Oct-2014 00:18:13 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'silvercv_user2'@'gator4091.hostgator.com' (using password: YES) in /home4/silvercv/public_html/index1.php on line 8
+[15-Oct-2014 12:48:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home4/silvercv/public_html/hellow.php on line 18
+[15-Oct-2014 17:00:23 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/silvercv/public_html/hellow.php on line 28
+[15-Oct-2014 17:00:55 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/silvercv/public_html/hellow.php on line 28
+[15-Oct-2014 17:01:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$ebook' (T_VARIABLE) in /home4/silvercv/public_html/hellow.php on line 32
+[15-Oct-2014 23:51:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'font' (T_STRING) in /home4/silvercv/public_html/hellow.php on line 33
+[16-Oct-2014 00:03:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'font' (T_STRING) in /home4/silvercv/public_html/hellow.php on line 33
+[16-Oct-2014 00:03:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'font' (T_STRING) in /home4/silvercv/public_html/hellow.php on line 33
+[16-Oct-2014 00:03:57 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/silvercv/public_html/hellow.php on line 33
+[16-Oct-2014 00:04:11 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/silvercv/public_html/hellow.php on line 33
+[16-Oct-2014 01:18:02 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/hellow.php on line 26
+[16-Oct-2014 01:18:11 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/hellow.php on line 26
+[16-Oct-2014 01:18:32 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/hellow.php on line 26
+[16-Oct-2014 15:19:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$mysqli' (T_VARIABLE), expecting ',' or ';' in /home4/silvercv/public_html/hellow.php on line 63
+[16-Oct-2014 15:40:32 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/silvercv/public_html/hellow.php on line 97
+[16-Oct-2014 15:59:55 America/Chicago] PHP Fatal error:  Call to undefined function InsertarCatalogo() in /home4/silvercv/public_html/hellow.php on line 67
+[16-Oct-2014 16:00:11 America/Chicago] PHP Fatal error:  Call to undefined function InsertarCatalogo() in /home4/silvercv/public_html/hellow.php on line 67
+[16-Oct-2014 16:01:38 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/silvercv/public_html/hellow.php on line 80
+[16-Oct-2014 17:47:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$idCatalogo' (T_VARIABLE), expecting ',' or ';' in /home4/silvercv/public_html/hellow.php on line 71
+[16-Oct-2014 18:05:32 America/Chicago] PHP Fatal error:  Call to undefined function InsertarCatalogo_Autor() in /home4/silvercv/public_html/hellow.php on line 74
+[16-Oct-2014 23:08:53 America/Chicago] PHP Warning:  Missing argument 2 for InsertarCatalogo_Autor(), called in /home4/silvercv/public_html/hellow.php on line 75 and defined in /home4/silvercv/public_html/hellow.php on line 82
+[16-Oct-2014 23:08:53 America/Chicago] PHP Warning:  Missing argument 3 for InsertarCatalogo_Autor(), called in /home4/silvercv/public_html/hellow.php on line 75 and defined in /home4/silvercv/public_html/hellow.php on line 82
+[17-Oct-2014 00:23:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$mysqli' (T_VARIABLE), expecting ',' or ';' in /home4/silvercv/public_html/hellow.php on line 81
+[17-Oct-2014 00:47:06 America/Chicago] PHP Fatal error:  Call to undefined function set_charset() in /home4/silvercv/public_html/hellow.php on line 88
+[17-Oct-2014 00:47:22 America/Chicago] PHP Fatal error:  Call to undefined function set_charset() in /home4/silvercv/public_html/hellow.php on line 88
+[17-Oct-2014 00:47:25 America/Chicago] PHP Fatal error:  Call to undefined function set_charset() in /home4/silvercv/public_html/hellow.php on line 88
+[17-Oct-2014 00:51:16 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/silvercv/public_html/hellow.php on line 60
+[17-Oct-2014 12:36:11 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 10
+[17-Oct-2014 12:36:24 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 10
+[17-Oct-2014 12:38:50 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 21
+[17-Oct-2014 12:39:01 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 21
+[17-Oct-2014 13:37:40 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 22
+[17-Oct-2014 13:38:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'to' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 30
+[17-Oct-2014 13:52:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'to' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 31
+[17-Oct-2014 13:56:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'to' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 31
+[17-Oct-2014 17:12:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'request' (T_STRING), expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 31
+[17-Oct-2014 18:23:04 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 32
+[17-Oct-2014 18:23:36 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 32
+[17-Oct-2014 18:25:26 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 32
+[17-Oct-2014 18:25:56 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 32
+[17-Oct-2014 18:27:00 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 32
+[17-Oct-2014 18:27:30 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 33
+[17-Oct-2014 18:45:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 33
+[17-Oct-2014 18:45:48 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 33
+[17-Oct-2014 18:47:16 America/Chicago] PHP Fatal error:  Call to undefined function json_parse() in /home4/silvercv/public_html/FuncionesCatalogo.php on line 32
+[17-Oct-2014 18:48:11 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 33
+[17-Oct-2014 18:56:18 America/Chicago] PHP Warning:  Illegal string offset 'phoneNumber' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 52
+[17-Oct-2014 18:56:18 America/Chicago] PHP Warning:  Illegal string offset 'number' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 52
+[17-Oct-2014 22:43:09 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 60
+[17-Oct-2014 22:44:00 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 61
+[17-Oct-2014 22:44:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 61
+[17-Oct-2014 22:49:49 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 35
+[17-Oct-2014 22:52:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/silvercv/public_html/FuncionesCatalogo.php on line 43
+[17-Oct-2014 22:57:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'El' (T_STRING), expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 70
+[17-Oct-2014 22:59:58 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 61
+[17-Oct-2014 23:33:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 55
+[17-Oct-2014 23:33:32 America/Chicago] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 149
+[17-Oct-2014 23:43:11 America/Chicago] PHP Warning:  Illegal string offset 'titulo' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 32
+[18-Oct-2014 02:46:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'CrearCatalogo' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 44
+[18-Oct-2014 02:47:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'ObtenerCatalogo' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 44
+[18-Oct-2014 02:47:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'ObtenerCatalogo' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 44
+[18-Oct-2014 02:48:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'ObtenerCatalogo' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 44
+[18-Oct-2014 02:48:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 61
+[18-Oct-2014 02:52:57 America/Chicago] PHP Warning:  Missing argument 2 for ObtenerCatalogo(), called in /home4/silvercv/public_html/FuncionesCatalogo.php on line 44 and defined in /home4/silvercv/public_html/FuncionesCatalogo.php on line 50
+[18-Oct-2014 02:55:41 America/Chicago] PHP Warning:  Missing argument 2 for ObtenerCatalogo(), called in /home4/silvercv/public_html/FuncionesCatalogo.php on line 44 and defined in /home4/silvercv/public_html/FuncionesCatalogo.php on line 50
+[18-Oct-2014 02:56:24 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 80
+[18-Oct-2014 03:09:43 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 81
+[19-Oct-2014 00:06:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 102
+[19-Oct-2014 00:07:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 102
+[19-Oct-2014 00:08:11 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 102
+[19-Oct-2014 02:03:34 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 158
+[19-Oct-2014 02:03:58 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 158
+[19-Oct-2014 02:04:03 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 158
+[19-Oct-2014 02:09:36 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home4/silvercv/public_html/FuncionesCatalogo.php on line 76
+[19-Oct-2014 02:12:45 America/Chicago] PHP Fatal error:  Call to undefined function ObtenerIdAturoPorNombre() in /home4/silvercv/public_html/FuncionesCatalogo.php on line 161
+[19-Oct-2014 02:13:42 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 174
+[19-Oct-2014 02:14:44 America/Chicago] PHP Fatal error:  Call to undefined function ObtenerIdAturoPorNombre() in /home4/silvercv/public_html/FuncionesCatalogo.php on line 162
+[19-Oct-2014 02:16:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 199
+[19-Oct-2014 02:45:06 America/Chicago] PHP Warning:  mysqli_free_result() expects exactly 1 parameter, 0 given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 198
+[19-Oct-2014 02:48:05 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 263
+[19-Oct-2014 02:56:12 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 195
+[19-Oct-2014 03:00:17 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 191
+[19-Oct-2014 03:01:30 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 192
+[19-Oct-2014 03:01:43 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/silvercv/public_html/FuncionesCatalogo.php on line 191
+[19-Oct-2014 03:03:32 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 192
+[19-Oct-2014 03:06:08 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home4/silvercv/public_html/FuncionesCatalogo.php on line 206
+[19-Oct-2014 14:14:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING), expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 204
+[19-Oct-2014 14:15:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING), expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 204
+[19-Oct-2014 14:15:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 222
+[19-Oct-2014 15:12:45 America/Chicago] PHP Warning:  require(html2fpdf.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/ConvertidorPhp.php on line 2
+[19-Oct-2014 15:12:45 America/Chicago] PHP Warning:  require(html2fpdf.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/ConvertidorPhp.php on line 2
+[19-Oct-2014 15:12:45 America/Chicago] PHP Fatal error:  require(): Failed opening required 'html2fpdf.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/ConvertidorPhp.php on line 2
+[19-Oct-2014 15:13:27 America/Chicago] PHP Warning:  require(html2fpdf.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/ConvertidorPhp.php on line 2
+[19-Oct-2014 15:13:27 America/Chicago] PHP Warning:  require(html2fpdf.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/ConvertidorPhp.php on line 2
+[19-Oct-2014 15:13:27 America/Chicago] PHP Fatal error:  require(): Failed opening required 'html2fpdf.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/ConvertidorPhp.php on line 2
+[19-Oct-2014 15:15:41 America/Chicago] PHP Fatal error:  Class 'HTML2FPDF' not found in /home4/silvercv/public_html/ConvertidorPhp.php on line 5
+[19-Oct-2014 15:15:55 America/Chicago] PHP Warning:  require(html2pdf/html2pdf.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/ConvertidorPhp.php on line 2
+[19-Oct-2014 15:15:55 America/Chicago] PHP Warning:  require(html2pdf/html2pdf.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/ConvertidorPhp.php on line 2
+[19-Oct-2014 15:15:55 America/Chicago] PHP Fatal error:  require(): Failed opening required 'html2pdf/html2pdf.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/ConvertidorPhp.php on line 2
+[19-Oct-2014 15:16:08 America/Chicago] PHP Fatal error:  Class 'HTML2FPDF' not found in /home4/silvercv/public_html/ConvertidorPhp.php on line 5
+[19-Oct-2014 15:17:36 America/Chicago] PHP Fatal error:  Class 'HTML2FPDF' not found in /home4/silvercv/public_html/ConvertidorPhp.php on line 5
+[19-Oct-2014 15:20:25 America/Chicago] PHP Fatal error:  Class 'HTML2FPDF' not found in /home4/silvercv/public_html/ConvertidorPhp.php on line 5
+[19-Oct-2014 15:22:37 America/Chicago] PHP Fatal error:  Class 'HTML2FPDF' not found in /home4/silvercv/public_html/ConvertidorPhp.php on line 5
+[19-Oct-2014 15:24:17 America/Chicago] PHP Fatal error:  Class 'HTML2FPDF' not found in /home4/silvercv/public_html/ConvertidorPhp.php on line 5
+[19-Oct-2014 15:24:20 America/Chicago] PHP Fatal error:  Class 'HTML2FPDF' not found in /home4/silvercv/public_html/ConvertidorPhp.php on line 5
+[19-Oct-2014 15:24:29 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/_class/exception.class.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/html2pdf.class.php on line 17
+[19-Oct-2014 15:24:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/_class/exception.class.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/html2pdf.class.php on line 17
+[19-Oct-2014 15:25:46 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/../html2pdf.class.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/ConvertidorPhp.php on line 60
+[19-Oct-2014 15:25:46 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/../html2pdf.class.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/ConvertidorPhp.php on line 60
+[19-Oct-2014 15:26:17 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_htmlhtml2pdf/html2pdf.class.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/ConvertidorPhp.php on line 60
+[19-Oct-2014 15:26:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_htmlhtml2pdf/html2pdf.class.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/ConvertidorPhp.php on line 60
+[19-Oct-2014 15:27:16 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_htmlhtml2pdf/html2pdf.class.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/ConvertidorPhp.php on line 60
+[19-Oct-2014 15:27:16 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_htmlhtml2pdf/html2pdf.class.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/ConvertidorPhp.php on line 60
+[19-Oct-2014 15:28:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:59) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:20:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:10) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:20:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:10) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:21:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:10) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:21:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:10) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:28:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/silvercv/public_html/ConvertidorPhp.php on line 55
+[19-Oct-2014 17:30:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:34) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:30:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:34) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:30:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:34) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:31:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:38) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:31:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:38) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:31:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/silvercv/public_html/ConvertidorPhp.php:38) in /home4/silvercv/public_html/html2pdf/_tcpdf_5.0.002/tcpdf.php on line 6122
+[19-Oct-2014 17:37:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home4/silvercv/public_html/ConvertidorPhp.php on line 23
+[19-Oct-2014 17:43:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/silvercv/public_html/ConvertidorPhp.php on line 20
+[19-Oct-2014 17:44:59 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/ConvertidorPhp.php on line 29
+[19-Oct-2014 17:45:12 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/ConvertidorPhp.php on line 29
+[19-Oct-2014 17:47:00 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 27
+[19-Oct-2014 17:54:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'old' (T_STRING) in /home4/silvercv/public_html/ConvertidorPhp.php on line 18
+[19-Oct-2014 17:54:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'old' (T_STRING) in /home4/silvercv/public_html/ConvertidorPhp.php on line 18
+[19-Oct-2014 18:24:48 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 25
+[19-Oct-2014 18:25:52 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 25
+[19-Oct-2014 18:28:51 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:29:21 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:31:29 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 26
+[19-Oct-2014 18:32:43 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:35:28 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:35:44 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:36:12 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:36:46 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:36:54 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:38:01 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:38:01 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/ConvertidorPhp.php on line 24
+[19-Oct-2014 18:41:09 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:41:09 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/ConvertidorPhp.php on line 24
+[19-Oct-2014 18:41:42 America/Chicago] PHP Warning:  Illegal string offset 'htmlCatalogo' in /home4/silvercv/public_html/ConvertidorPhp.php on line 22
+[19-Oct-2014 18:41:42 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/ConvertidorPhp.php on line 24
+[19-Oct-2014 18:42:00 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/ConvertidorPhp.php on line 24
+[19-Oct-2014 18:48:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'old' (T_STRING) in /home4/silvercv/public_html/ConvertidorPhp.php on line 23
+[19-Oct-2014 18:53:34 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/silvercv/public_html/ConvertidorPhp.php on line 24
+[19-Oct-2014 18:59:56 America/Chicago] PHP Parse error:  syntax error, unexpected '%' in /home4/silvercv/public_html/ConvertidorPhp.php on line 42
+[19-Oct-2014 22:00:43 America/Chicago] PHP Parse error:  syntax error, unexpected ''id'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 92
+[19-Oct-2014 22:01:02 America/Chicago] PHP Parse error:  syntax error, unexpected ''id'' (T_CONSTANT_ENCAPSED_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 92
+[19-Oct-2014 22:01:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 118
+[19-Oct-2014 22:26:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 130
+[19-Oct-2014 22:29:12 America/Chicago] PHP Parse error:  syntax error, unexpected ''PAs'' (T_CONSTANT_ENCAPSED_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 117
+[19-Oct-2014 22:48:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$idAutor' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 229
+[20-Oct-2014 23:18:16 America/Chicago] PHP Fatal error:  Call to undefined function ObtenerMuseos() in /home4/silvercv/public_html/FuncionesUsuario.php on line 25
+[21-Oct-2014 00:53:59 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 4
+[21-Oct-2014 00:58:43 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 4
+[21-Oct-2014 01:17:39 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 4
+[21-Oct-2014 01:38:47 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 85
+[21-Oct-2014 01:39:32 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 85
+[21-Oct-2014 01:57:21 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 86
+[21-Oct-2014 01:59:07 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 86
+[21-Oct-2014 02:06:09 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 86
+[21-Oct-2014 02:06:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 86
+[21-Oct-2014 02:09:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 235
+[21-Oct-2014 02:15:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 235
+[21-Oct-2014 02:21:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 235
+[21-Oct-2014 02:22:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 235
+[21-Oct-2014 02:29:06 America/Chicago] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 430
+[21-Oct-2014 02:29:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 236
+[21-Oct-2014 02:32:06 America/Chicago] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 432
+[21-Oct-2014 02:35:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 238
+[21-Oct-2014 02:38:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 237
+[21-Oct-2014 02:39:59 America/Chicago] PHP Warning:  Illegal string offset 'nombre' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 236
+[21-Oct-2014 02:40:52 America/Chicago] PHP Warning:  Illegal string offset 'nombre' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 236
+[21-Oct-2014 02:59:23 America/Chicago] PHP Warning:  Illegal string offset 'nombre' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 236
+[21-Oct-2014 03:01:35 America/Chicago] PHP Warning:  Illegal string offset 'nombre' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 236
+[21-Oct-2014 03:02:25 America/Chicago] PHP Warning:  Illegal string offset 'nombre' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 236
+[21-Oct-2014 03:03:17 America/Chicago] PHP Warning:  Illegal string offset 'nombre' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 236
+[21-Oct-2014 03:09:01 America/Chicago] PHP Warning:  Illegal string offset 'nombre' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 236
+[21-Oct-2014 17:38:52 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, object given in /home4/silvercv/public_html/ConvertidorPhp.php on line 20
+[22-Oct-2014 12:28:55 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/silvercv/public_html/FuncionesUsuario.php on line 36
+[22-Oct-2014 12:29:27 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/silvercv/public_html/FuncionesUsuario.php on line 36
+[22-Oct-2014 12:29:49 America/Chicago] PHP Warning:  Missing argument 2 for AgregarCatalogoFavorito(), called in /home4/silvercv/public_html/FuncionesUsuario.php on line 36 and defined in /home4/silvercv/public_html/FuncionesUsuario.php on line 75
+[22-Oct-2014 12:29:49 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/silvercv/public_html/FuncionesUsuario.php on line 78
+[22-Oct-2014 12:30:20 America/Chicago] PHP Warning:  Missing argument 2 for AgregarCatalogoFavorito(), called in /home4/silvercv/public_html/FuncionesUsuario.php on line 36 and defined in /home4/silvercv/public_html/FuncionesUsuario.php on line 75
+[22-Oct-2014 12:30:20 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/silvercv/public_html/FuncionesUsuario.php on line 78
+[22-Oct-2014 12:31:23 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/silvercv/public_html/FuncionesUsuario.php on line 78
+[22-Oct-2014 12:31:52 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/silvercv/public_html/FuncionesUsuario.php on line 78
+[22-Oct-2014 12:32:21 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/silvercv/public_html/FuncionesUsuario.php on line 78
+[22-Oct-2014 12:32:28 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/silvercv/public_html/FuncionesUsuario.php on line 78
+[22-Oct-2014 12:32:57 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/silvercv/public_html/FuncionesUsuario.php on line 78
+[22-Oct-2014 18:43:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 232
+[22-Oct-2014 18:46:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 232
+[23-Oct-2014 01:08:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 231
+[23-Oct-2014 01:12:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 231
+[23-Oct-2014 01:25:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 239
+[23-Oct-2014 01:32:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 239
+[23-Oct-2014 03:20:03 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 212
+[23-Oct-2014 12:51:24 America/Chicago] PHP Warning:  json_encode() expects parameter 2 to be long, string given in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 229
+[23-Oct-2014 12:52:03 America/Chicago] PHP Warning:  json_encode() expects parameter 2 to be long, string given in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 229
+[23-Oct-2014 13:44:25 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 224
+[23-Oct-2014 13:44:25 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 224
+[23-Oct-2014 13:44:34 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 224
+[23-Oct-2014 13:44:34 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 224
+[23-Oct-2014 13:54:33 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 15:50:13 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 15:52:42 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 15:53:41 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 15:53:58 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 15:54:56 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 15:55:26 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 15:55:32 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 15:56:31 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 15:57:17 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 15:58:58 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 16:00:43 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 16:00:49 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 16:02:09 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 16:03:06 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 16:03:59 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 16:04:31 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 16:06:21 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 16:10:03 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 16:30:55 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 215
+[23-Oct-2014 18:11:10 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[23-Oct-2014 19:11:54 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 201
+[23-Oct-2014 22:57:32 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 199
+[23-Oct-2014 23:05:02 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 199
+[23-Oct-2014 23:09:09 America/Chicago] PHP Warning:  Illegal string offset 'Page' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 218
+[23-Oct-2014 23:09:35 America/Chicago] PHP Warning:  Illegal string offset 'Page' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 218
+[23-Oct-2014 23:11:16 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 218
+[23-Oct-2014 23:12:23 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 218
+[23-Oct-2014 23:16:42 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 218
+[23-Oct-2014 23:18:35 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 199
+[23-Oct-2014 23:21:48 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 199
+[23-Oct-2014 23:23:29 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 199
+[23-Oct-2014 23:23:42 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 199
+[23-Oct-2014 23:26:25 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 201
+[23-Oct-2014 23:55:23 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 208
+[23-Oct-2014 23:55:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 225
+[24-Oct-2014 00:00:31 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 209
+[24-Oct-2014 00:00:57 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 209
+[24-Oct-2014 00:11:18 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 215
+[24-Oct-2014 00:11:56 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 216
+[24-Oct-2014 00:13:50 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/silvercv/public_html/FuncionesCatalogo.php on line 410
+[24-Oct-2014 00:30:11 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 216
+[24-Oct-2014 00:50:43 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 207
+[24-Oct-2014 00:51:26 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 207
+[24-Oct-2014 00:51:47 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 207
+[24-Oct-2014 00:52:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$Catalogo' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 216
+[24-Oct-2014 00:57:34 America/Chicago] PHP Warning:  Illegal string offset 'params' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 241
+[24-Oct-2014 00:57:34 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 241
+[24-Oct-2014 00:57:55 America/Chicago] PHP Warning:  Illegal string offset 'Params' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 241
+[24-Oct-2014 00:57:55 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 241
+[24-Oct-2014 01:00:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 205
+[24-Oct-2014 01:01:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 202
+[24-Oct-2014 01:01:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/silvercv/public_html/FuncionesCatalogo.php on line 119
+[24-Oct-2014 01:47:07 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[24-Oct-2014 01:47:18 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[24-Oct-2014 01:48:16 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[24-Oct-2014 01:50:24 America/Chicago] PHP Fatal error:  Call to undefined function logo() in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 111
+[24-Oct-2014 01:57:11 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 244
+[24-Oct-2014 01:57:35 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 244
+[24-Oct-2014 02:10:52 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 232
+[24-Oct-2014 02:20:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'Catalogo' (T_STRING), expecting ']' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 234
+[24-Oct-2014 02:20:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'Catalogo' (T_STRING), expecting ']' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 234
+[24-Oct-2014 02:21:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'Catalogo' (T_STRING), expecting ']' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 234
+[24-Oct-2014 02:21:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'Catalogo' (T_STRING), expecting ']' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 234
+[24-Oct-2014 02:39:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'Catalogo' (T_STRING), expecting ']' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 235
+[24-Oct-2014 03:05:35 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/silvercv/public_html/FuncionesCatalogo.php on line 234
+[24-Oct-2014 03:26:42 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 234
+[24-Oct-2014 04:03:36 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 88
+[24-Oct-2014 04:04:20 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 88
+[24-Oct-2014 04:06:38 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 04:06:38 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 84
+[24-Oct-2014 04:08:15 America/Chicago] PHP Warning:  Illegal string offset 'Catalogo' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 88
+[24-Oct-2014 04:08:15 America/Chicago] PHP Warning:  Illegal string offset 'paginas' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 88
+[24-Oct-2014 04:09:30 America/Chicago] PHP Warning:  Illegal string offset 'Catalogo' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 88
+[24-Oct-2014 04:09:30 America/Chicago] PHP Warning:  Illegal string offset 'paginas' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 88
+[24-Oct-2014 04:14:12 America/Chicago] PHP Warning:  Illegal string offset 'paginas' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 86
+[24-Oct-2014 04:15:15 America/Chicago] PHP Warning:  Illegal string offset 'Catalogo' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 86
+[24-Oct-2014 04:15:15 America/Chicago] PHP Warning:  Illegal string offset 'paginas' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 86
+[24-Oct-2014 04:18:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 90
+[24-Oct-2014 04:18:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 90
+[24-Oct-2014 04:22:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 90
+[24-Oct-2014 04:23:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 90
+[24-Oct-2014 04:23:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 90
+[24-Oct-2014 04:24:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 90
+[24-Oct-2014 04:26:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 90
+[24-Oct-2014 11:45:12 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 11:45:12 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 84
+[24-Oct-2014 11:46:17 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 11:46:17 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 84
+[24-Oct-2014 11:47:14 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 11:47:14 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 84
+[24-Oct-2014 11:48:07 America/Chicago] PHP Warning:  Illegal string offset 'Catalogo' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 11:48:07 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 11:48:07 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 84
+[24-Oct-2014 11:48:48 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 11:48:48 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 84
+[24-Oct-2014 11:49:08 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 11:49:08 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 84
+[24-Oct-2014 11:51:58 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 11:51:58 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 84
+[24-Oct-2014 11:54:12 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 11:56:30 America/Chicago] PHP Fatal error:  Class 'Zend_Utf8' not found in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 11:57:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$escape' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 11:59:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$escape' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:00:02 America/Chicago] PHP Fatal error:  Class 'Zend_Utf8' not found in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:01:04 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 81
+[24-Oct-2014 12:01:54 America/Chicago] PHP Warning:  preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 10 in /home4/silvercv/public_html/FuncionesCatalogo.php on line 356
+[24-Oct-2014 12:02:49 America/Chicago] PHP Warning:  preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 10 in /home4/silvercv/public_html/FuncionesCatalogo.php on line 356
+[24-Oct-2014 12:06:14 America/Chicago] PHP Warning:  preg_match(): Compilation failed: PCRE does not support \L, \l, \N{name}, \U, or \u at offset 10 in /home4/silvercv/public_html/FuncionesCatalogo.php on line 356
+[24-Oct-2014 12:07:21 America/Chicago] PHP Fatal error:  Class 'Zend_Exception' not found in /home4/silvercv/public_html/FuncionesCatalogo.php on line 83
+[24-Oct-2014 12:08:30 America/Chicago] PHP Parse error:  syntax error, unexpected '$escape' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 602
+[24-Oct-2014 12:08:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$escape' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 602
+[24-Oct-2014 12:08:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$escape' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 602
+[24-Oct-2014 12:11:51 America/Chicago] PHP Fatal error:  Call to undefined function how() in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 12:12:29 America/Chicago] PHP Parse error:  syntax error, unexpected '$escape' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 602
+[24-Oct-2014 12:15:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:16:14 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 12:20:51 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 12:20:51 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 91
+[24-Oct-2014 12:21:05 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 12:21:05 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 91
+[24-Oct-2014 12:21:21 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/silvercv/public_html/FuncionesCatalogo.php on line 86
+[24-Oct-2014 12:26:52 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:26:52 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 90
+[24-Oct-2014 12:28:07 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:28:07 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 90
+[24-Oct-2014 12:29:55 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:29:55 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 90
+[24-Oct-2014 12:30:18 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:30:18 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 90
+[24-Oct-2014 12:31:17 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:31:33 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:31:41 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:31:50 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 12:35:59 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 12:37:13 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 12:39:27 America/Chicago] PHP Warning:  Illegal string offset 'Catalogo' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 12:39:27 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 12:40:49 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 12:43:47 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 13:40:37 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 13:40:37 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 13:41:06 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 72
+[24-Oct-2014 13:41:41 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 13:43:30 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 13:43:52 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 13:43:52 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 13:44:17 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 13:44:17 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 13:44:32 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 13:44:32 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 13:45:37 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 13:46:00 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 13:46:30 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 13:47:07 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 13:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 13:52:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 13:54:39 America/Chicago] PHP Warning:  Illegal string offset 'shop' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 13:54:39 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 13:55:57 America/Chicago] PHP Warning:  Illegal string offset 'shop' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 13:55:57 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 15:37:33 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 15:37:53 America/Chicago] PHP Warning:  Illegal string offset 'title' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 87
+[24-Oct-2014 15:43:17 America/Chicago] PHP Fatal error:  Call to undefined function json_dencode() in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 15:43:47 America/Chicago] PHP Fatal error:  Call to undefined function json_dencode() in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 15:45:07 America/Chicago] PHP Fatal error:  Call to undefined function json_dencode() in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 15:49:30 America/Chicago] PHP Warning:  Illegal string offset 'shop' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 15:52:09 America/Chicago] PHP Warning:  Illegal string offset 'shop' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 15:52:09 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 91
+[24-Oct-2014 15:52:35 America/Chicago] PHP Warning:  Illegal string offset 'shop' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 15:53:13 America/Chicago] PHP Warning:  Illegal string offset 'shop' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 15:54:03 America/Chicago] PHP Warning:  Illegal string offset 'shop' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 15:55:20 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 88
+[24-Oct-2014 15:58:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'b' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 15:58:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'b' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 15:58:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$b' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 15:59:14 America/Chicago] PHP Warning:  Illegal string offset 'shop' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 90
+[24-Oct-2014 16:02:54 America/Chicago] PHP Parse error:  syntax error, unexpected ''funcion'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 16:03:13 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 93
+[24-Oct-2014 16:04:18 America/Chicago] PHP Warning:  Illegal string offset 'funcion' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 94
+[24-Oct-2014 16:11:58 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[24-Oct-2014 16:15:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'json_decode' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 95
+[24-Oct-2014 16:16:21 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 95
+[24-Oct-2014 16:16:36 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 95
+[24-Oct-2014 17:50:05 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/_class/exception.class.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/html2pdf.class.php on line 17
+[24-Oct-2014 17:50:05 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/_class/exception.class.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/html2pdf.class.php on line 17
+[25-Oct-2014 00:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 81
+[25-Oct-2014 00:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$objRequest' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[25-Oct-2014 00:16:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$objRequest' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 89
+[25-Oct-2014 00:59:08 America/Chicago] PHP Warning:  Missing argument 3 for CrearCatalogo(), called in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 102 and defined in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 247
+[25-Oct-2014 01:01:00 America/Chicago] PHP Warning:  Missing argument 3 for CrearCatalogo(), called in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 102 and defined in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 247
+[25-Oct-2014 01:51:08 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/silvercv/public_html/FuncionesCatalogo_.php on line 271
+[25-Oct-2014 02:54:00 America/Chicago] PHP Warning:  require_once(/home4/silvercv/public_html/_class/exception.class.php): failed to open stream: No such file or directory in /home4/silvercv/public_html/html2pdf.class.php on line 17
+[25-Oct-2014 02:54:00 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/silvercv/public_html/_class/exception.class.php' (include_path='.:/opt/php54/lib/php') in /home4/silvercv/public_html/html2pdf.class.php on line 17
+[25-Oct-2014 03:50:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home4/silvercv/public_html/ConvertidorPhp.php on line 36
+[25-Oct-2014 03:50:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home4/silvercv/public_html/ConvertidorPhp.php on line 36
+[25-Oct-2014 22:28:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'GuardarImagen' (T_STRING) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 111
+[25-Oct-2014 22:28:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 111
+[25-Oct-2014 22:55:09 America/Chicago] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home4/silvercv/public_html/FuncionesCatalogo.php on line 162
+[25-Oct-2014 23:43:21 America/Chicago] PHP Warning:  file_put_contents() expects parameter 1 to be a valid path, string given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 162
+[25-Oct-2014 23:43:21 America/Chicago] PHP Warning:  file_put_contents() expects parameter 1 to be a valid path, string given in /home4/silvercv/public_html/FuncionesCatalogo.php on line 162
+[25-Oct-2014 23:46:44 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home4/silvercv/public_html/FuncionesCatalogo.php on line 159
+[26-Oct-2014 00:06:27 America/Chicago] PHP Warning:  fread(): Length parameter must be greater than 0 in /home4/silvercv/public_html/FuncionesCatalogo.php on line 169

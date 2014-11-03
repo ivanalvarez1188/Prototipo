@@ -1,0 +1,10 @@
+[
+    {
+        "Id": "2",
+        "Html": "<form id='DynamicBox' data-bind='submit: SavePage'><div contenteditable='true' id='inline1' style='height:1122px; width:700px; background-image: url(Images/Templates/Plantilla1Fondoc.jpg); text-align:center;'><br/><br/><br/><span style='font-size:20px; color:#ddd;'>TITULO DE CATÁLOGO</span><br/><br/><br/><img src='Images/Templates/NoImage.png' alt='' style='width: 200px;' /></div></form>"
+    },
+    {
+        "Id": "3",
+        "Html": "<form id='DynamicBox' data-bind='submit: SavePage'><div contenteditable='true' id='inline1' style='height:1122px; width:700px; background-image: url(Images/Templates/Fondo7.jpg); text-align:center;'><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><span  style='font-size:50px; color:#3F1F1F; ' >Aviso.</br></span><span style='font-size:30px; color:#3F1F1F;' >El contenido de la siguiente publicación electrónica está amparada bajo los derechos de autor (copyright) y su reproducción requiere de la autorización escrita del autor de los textos y de las imágenes</span><br/><br/><br/></div></form>"
+    }
+]

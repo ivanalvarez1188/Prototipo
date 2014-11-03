@@ -1,0 +1,41 @@
+[{
+"funcion": "CrearCatalogo",
+"Catalogo": {
+    "titulo":"",
+    "fecha":"",
+    "resumen":"",
+    "ebook": "",
+    "paginas":"",
+    "idMuseo":1,
+    "publicado":false,
+    "idCatalogo":-1,
+    "idUsuario":1,
+    "rutaPdf":"ruta",
+    "Autor":""
+    }
+},
+    {
+    "funcion": "ObtenerCatalogoPorId",
+    "idCatalogo": ""
+    },
+[
+    {
+        "id":"",
+        "Page":"",
+        "TempId":"",
+        "Params":[]
+    }
+],
+    {
+        "funcion": "ObtenerCatalogosGuardados",
+         "Catalogo": {
+          "idUsuario":1
+            }
+    },
+    {
+        "funcion": "ObtenerCatalogosPublicados",
+        "Catalogo": {
+            "idUsuario":1
+        }
+    }
+]
